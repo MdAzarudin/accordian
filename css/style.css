@@ -1,0 +1,142 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 1170px;
+    border: 1px solid black;
+    margin: 0 auto;
+    height: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 100px;
+}
+
+.first {
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(107, 151, 240);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 30px;
+    box-shadow: 2px 2px 5px;
+}
+
+.RGB p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.second{
+    height: 50px;
+    width: 100%;
+    background-color: lightgray;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.grey p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.third{
+    height: 50px;
+    width: 100%;
+    background-color: lightgreen;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.green p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.fourth{
+    height: 50px;
+    width: 100%;
+    background-color: lightpink;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.pink p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.fifth{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(252,252,132);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.yellow p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.sixth{
+    height: 50px;
+    width: 100%;
+    background-color: lightblue;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.lite p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.seventh{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.white p {
+    margin: 10px;
+    padding: 13px;
+}
+
+.eighth{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.dark p {
+    margin: 10px;
+    padding: 13px;
+}
